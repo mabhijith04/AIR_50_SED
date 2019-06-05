@@ -37,7 +37,7 @@ delta_num=$1
 
 actual_delta_num=$delta_num+1
 
-exp_description="Loop A with 50% noise: Seed Model 1 hour + $delta_num delta blocks"
+exp_description="String Edit Distance with 50% noise: Seed Model 1 hour + $delta_num delta blocks"
 
 echo ============================================================================
 echo "                Data & Lexicon & Language Preparation                     "
